@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naufalols
 - 👀 I’m interested in beck-end developer
 - 🌱 I’m currently learning laravel 8
-- 📫 How to reach me email me muh.naufal@hotmail.com
+- 📫 Reach me out muh.naufal@hotmail.com
 
 <!---
 naufalols/naufalols is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
