@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naufalols
-- 👀 I’m interested in beck-end developer
+- 👀 I’m interested in back-end developer
 - 🌱 I’m currently learning laravel 8
 - 📫 Reach me out muh.naufal@hotmail.com
 
